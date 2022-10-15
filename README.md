@@ -1,6 +1,6 @@
 # airplane_app
 
-A new Flutter project.
+My First Project from BWA Learn, building simple airplane app
 
 ## Getting Started
 
